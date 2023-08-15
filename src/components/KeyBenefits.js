@@ -3,8 +3,8 @@ const KeyBenefits = () => {
   return (
     <div className={styles.keyBenefits}>
       <div className={styles.rank}>
-        <img className={styles.bodyIcon} alt="" src="/body3.svg" />
-        <img className={styles.shapeIcon} alt="" src="/shape2.svg" />
+        <img className={styles.bodyIcon} alt="" src="body3.svg" />
+        <img className={styles.shapeIcon} alt="" src="shape2.svg" />
         <div className={styles.item04}>
           <div className={styles.text}>
             <div className={styles.div}>#</div>
@@ -12,7 +12,7 @@ const KeyBenefits = () => {
             <div className={styles.shopifycom}>shopify.com</div>
             <div className={styles.mVisits}>386.6M Visits</div>
           </div>
-          <img className={styles.logoIcon} alt="" src="/logo3.svg" />
+          <img className={styles.logoIcon} alt="" src="logo3.svg" />
         </div>
         <div className={styles.item02}>
           <div className={styles.text1}>
@@ -23,18 +23,18 @@ const KeyBenefits = () => {
           </div>
           <div className={styles.logo}>
             <div className={styles.body} />
-            <img className={styles.image26Icon} alt="" src="/image-26@2x.png" />
+            <img className={styles.image26Icon} alt="" src="image-26@2x.png" />
           </div>
         </div>
         <div className={styles.item01}>
           <div className={styles.body1} />
-          <img className={styles.icon} alt="" src="/icon8.svg" />
+          <img className={styles.icon} alt="" src="icon8.svg" />
           <div className={styles.logo1}>
             <div className={styles.body2} />
             <img
               className={styles.amazonIcon1}
               alt=""
-              src="/amazon-icon-1@2x.png"
+              src="amazon-icon-1@2x.png"
             />
           </div>
           <div className={styles.text2}>
@@ -52,7 +52,7 @@ const KeyBenefits = () => {
             <img
               className={styles.download1Icon}
               alt=""
-              src="/download-1@2x.png"
+              src="download-1@2x.png"
             />
             <div className={styles.mVisits2}>386.6M Visits</div>
           </div>

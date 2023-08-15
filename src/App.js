@@ -43,11 +43,11 @@ import {
           metaDescriptionTag.content = metaDescription;
         }
       }
-    }, [pathname]);
+    }, [pathname])
   
     return (
       <Routes>
-        <Route path="/" element={<HeaderMask />} />
+        <Route path="/projectOne" element={<HeaderMask />} />
         <Route path="/about" element={<div>hello</div>} />
 
       </Routes>

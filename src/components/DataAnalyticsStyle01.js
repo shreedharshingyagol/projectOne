@@ -63,7 +63,7 @@ const DataAnalyticsStyle01 = () => {
     <div className={styles.dataAnalyticsStyle01}>
       <section className={styles.header} Header>
         <HeaderMask />
-        <img className={styles.elementsIcon} alt="" src="/elements@2x.png" />
+        <img className={styles.elementsIcon} alt="" src="elements@2x.png" />
         <div className={styles.image}>
           <div className={styles.topImage}>
             <div className={styles.image03}>
@@ -116,12 +116,12 @@ const DataAnalyticsStyle01 = () => {
               <img
                 className={styles.image02Child}
                 alt=""
-                src="/group-1000000831.svg"
+                src="group-1000000831.svg"
               />
               <img
                 className={styles.image02Item}
                 alt=""
-                src="/group-1000000830.svg"
+                src="group-1000000830.svg"
               />
               <b className={styles.dataAnalytics}>Data Analytics</b>
             </div>
@@ -146,7 +146,7 @@ const DataAnalyticsStyle01 = () => {
               <img
                 className={styles.horizontalLinesIcon}
                 alt=""
-                src="/horizontal-lines.svg"
+                src="horizontal-lines.svg"
               />
               <nav className={styles.oct2021Parent}>
                 <div className={styles.benjaminEvalent}>Oct 2021</div>
@@ -158,12 +158,12 @@ const DataAnalyticsStyle01 = () => {
               <img
                 className={styles.image01Child}
                 alt=""
-                src="/vector-20.svg"
+                src="vector-20.svg"
               />
-              <img className={styles.image01Item} alt="" src="/vector-18.svg" />
+              <img className={styles.image01Item} alt="" src="vector-18.svg" />
               <div className={styles.dot} />
               <div className={styles.unionParent}>
-                <img className={styles.unionIcon} alt="" src="/union.svg" />
+                <img className={styles.unionIcon} alt="" src="union.svg" />
                 <div className={styles.frameParent1}>
                   <div className={styles.frameWrapper}>
                     <div className={styles.ellipseParent}>
@@ -180,12 +180,12 @@ const DataAnalyticsStyle01 = () => {
                 </div>
               </div>
             </div>
-            <img className={styles.image04Icon} alt="" src="/image-04@2x.png" />
+            <img className={styles.image04Icon} alt="" src="image-04@2x.png" />
           </div>
           {/* <HeaderOverlayImage /> */}
         </div>
         <div className={styles.emailBox}>
-          <img className={styles.smsIcon} alt="" src="/sms.svg" />
+          <img className={styles.smsIcon} alt="" src="sms.svg" />
           <button className={styles.button} style = {{zIndex : 4}} disabled = {false} onClick = {handleGetDemo}>
             <div className={styles.analyzeNow}>Get A Demo</div>
           </button>
@@ -194,7 +194,7 @@ const DataAnalyticsStyle01 = () => {
           </input>
         </div>
         <div className={styles.titel}>
-          <img className={styles.vectorIcon} alt="" src="/vector.svg" />
+          <img className={styles.vectorIcon} alt="" src="vector.svg" />
           <h1 className={styles.theLeadingCustomerContainer}>
             <p className={styles.theLeadingCustomer}>The Leading Customer</p>
             <p className={styles.theLeadingCustomer}>Data Platform</p>
@@ -206,7 +206,7 @@ const DataAnalyticsStyle01 = () => {
         <div className={styles.navBer}>
           <div className={styles.line} />
           <div className={styles.logo}>
-            <img className={styles.shapeIcon} alt="" src="/shape.svg" />
+            <img className={styles.shapeIcon} alt="" src="shape.svg" />
             <h1 className={styles.logo1}>Softec</h1>
           </div>
           <div className={styles.homePagesBlog} >
@@ -216,9 +216,9 @@ const DataAnalyticsStyle01 = () => {
             <div style = {{ paddingRight: '10px' ,  paddingLeft: '10px' , zIndex : '5'}}  onClick = {()=>handleAbout('Projects')}>Projects</div>
             <div style = {{ paddingRight: '10px' ,  paddingLeft: '10px' , zIndex : '5'}}  onClick = {()=>handleAbout('Contact')}>Contact</div>
           </div>
-          <img className={styles.searchIcon} alt="" src="/search-icon.svg" />
+          <img className={styles.searchIcon} alt="" src="search-icon.svg" />
           <div className={styles.login}>
-            <img className={styles.icon} alt="" src="/icon.svg" />
+            <img className={styles.icon} alt="" src="icon.svg" />
             <div className={styles.analyzeNow1}>Log In</div>
           </div>
           <button className={styles.button1} autoFocus disabled>
@@ -245,11 +245,11 @@ const DataAnalyticsStyle01 = () => {
         </div> */}
       </section>
       <section className={styles.features}>
-        <img className={styles.bodyIcon} alt="" src="/-body@2x.png" />
+        <img className={styles.bodyIcon} alt="" src="-body@2x.png" />
         <CardItemOne
           item03Left="386px"
-          button="/button1.svg"
-          icon="/icon1.svg"
+          button="button1.svg"
+          icon="icon1.svg"
           iconHeight="15.63%"
           iconBottom="68.75%"
           collaborationAcross="A Unified View of The"
@@ -258,8 +258,8 @@ const DataAnalyticsStyle01 = () => {
         />
         <CardItem />
         <CardItemOne
-          button="/button3.svg"
-          icon="/icon3.svg"
+          button="button3.svg"
+          icon="icon3.svg"
           collaborationAcross="Collaboration Across"
           allAreas="All Areas"
           showButtonIcon
@@ -281,8 +281,8 @@ const DataAnalyticsStyle01 = () => {
           <div className={styles.child} />
           <div className={styles.lineParent}>
             <div className={styles.line2} />
-            <img className={styles.buttonIcon1} alt="" src="/button4.svg" />
-            <img className={styles.logoIcon} alt="" src="/logo.svg" />
+            <img className={styles.buttonIcon1} alt="" src="button4.svg" />
+            <img className={styles.logoIcon} alt="" src="logo.svg" />
             <h1 className={styles.muckupDesign}>Muckup Design</h1>
             <div className={styles.excepteurSintOccaecatContainer}>
               <p className={styles.theLeadingCustomer}>
@@ -306,8 +306,8 @@ const DataAnalyticsStyle01 = () => {
         <div className={styles.div9}>
           <RecentWork />
           <div className={styles.line3} />
-          <img className={styles.buttonIcon2} alt="" src="/button5.svg" />
-          <img className={styles.logoIcon1} alt="" src="/logo1.svg" />
+          <img className={styles.buttonIcon2} alt="" src="button5.svg" />
+          <img className={styles.logoIcon1} alt="" src="logo1.svg" />
           <div className={styles.clientNamePhillipContainer}>
             <p className={styles.theLeadingCustomer}>Client Name</p>
             <p className={styles.gustavPurpleson}>Phillip Anthropy</p>
@@ -331,7 +331,7 @@ const DataAnalyticsStyle01 = () => {
           <div className={styles.item} />
           <div className={styles.inner} />
           <div className={styles.image19Parent}>
-            <img className={styles.image19Icon} alt="" src="/image-19@2x.png" />
+            <img className={styles.image19Icon} alt="" src="image-19@2x.png" />
             <div className={styles.excepteurSintOccaecatContainer2}>
               <p className={styles.theLeadingCustomer}>
                 Excepteur sint occaecat cupidatat officia non
@@ -350,7 +350,7 @@ const DataAnalyticsStyle01 = () => {
               <p className={styles.gustavPurpleson}>$250 - $300</p>
             </div>
             <div className={styles.frameChild6} />
-            <img className={styles.buttonIcon3} alt="" src="/button6.svg" />
+            <img className={styles.buttonIcon3} alt="" src="button6.svg" />
             <h1 className={styles.appDesign}>App Design</h1>
           </div>
         </div>
@@ -380,8 +380,8 @@ const DataAnalyticsStyle01 = () => {
           item01Left="400px"
           item01BackgroundColor="unset"
           item01BoxShadow="unset"
-          button="/button7.svg"
-          icon="/icon4.svg"
+          button="button7.svg"
+          icon="icon4.svg"
           iconHeight="14.38%"
           iconBottom="70.31%"
           aIDataAnalysis="Business Intelligence"
@@ -395,21 +395,21 @@ const DataAnalyticsStyle01 = () => {
           item03Top="508px"
           item03Left="0px"
           item03Padding="49px var(--padding-25xl) var(--padding-28xl)"
-          speedometer="/icon5.svg"
+          speedometer="icon5.svg"
           artificialIntelligence="Data Visualization"
-          button="/button8.svg"
+          button="button8.svg"
         />
         <ServiceCardOne
-          speedometer="/speedometer.svg"
+          speedometer="speedometer.svg"
           artificialIntelligence="Artificial Intelligence"
-          button="/button9.svg"
+          button="button9.svg"
         />
         <ServiceCard
           item01Left="400px"
           item01BackgroundColor="#fff"
           item01BoxShadow="0px 20px 30px rgba(1, 6, 20, 0.1)"
-          button="/button5.svg"
-          icon="/edit2.svg"
+          button="button5.svg"
+          icon="edit2.svg"
           iconHeight="14.74%"
           iconBottom="69.64%"
           aIDataAnalysis="Machine Learning"
@@ -420,8 +420,8 @@ const DataAnalyticsStyle01 = () => {
           iconRight="75.68%"
         />
         <ServiceCard
-          button="/button7.svg"
-          icon="/icon6.svg"
+          button="button7.svg"
+          icon="icon6.svg"
           aIDataAnalysis="AI Data Analysis"
         />
         <div className={styles.titel2}>
@@ -477,8 +477,8 @@ const DataAnalyticsStyle01 = () => {
         <SelectedPricing />
         <Pricing03 />
         <div className={styles.svae35}>
-          <img className={styles.bodyIcon1} alt="" src="/body5@2x.png" />
-          <img className={styles.lineShapeIcon} alt="" src="/line-shape.svg" />
+          <img className={styles.bodyIcon1} alt="" src="body5@2x.png" />
+          <img className={styles.lineShapeIcon} alt="" src="line-shape.svg" />
           <div className={styles.save35}>
             <p className={styles.theLeadingCustomer}>SAVE</p>
             <p className={styles.theLeadingCustomer}>35%</p>
@@ -513,7 +513,7 @@ const DataAnalyticsStyle01 = () => {
         <div className={styles.about}>
           <SocialIcon />
           <div className={styles.logo2}>
-            <img className={styles.shapeIcon} alt="" src="/shape3.svg" />
+            <img className={styles.shapeIcon} alt="" src="shape3.svg" />
             <h1 className={styles.logo1}>Softec</h1>
           </div>
           <div className={styles.ourHighlySkilledContainer}>
@@ -549,7 +549,7 @@ const DataAnalyticsStyle01 = () => {
         <div className={styles.contact1}>
           <b className={styles.contactUs}>Contact Us</b>
           <div className={styles.div11}>
-            <img className={styles.groupIcon} alt="" src="/group-1.svg" />
+            <img className={styles.groupIcon} alt="" src="group-1.svg" />
             <div className={styles.benjaminEvalent}>
               <p className={styles.theLeadingCustomer}>
                 1234 North Avenue Luke Lane,
@@ -558,11 +558,11 @@ const DataAnalyticsStyle01 = () => {
             </div>
           </div>
           <div className={styles.div12}>
-            <img className={styles.child1} alt="" src="/group-1000000821.svg" />
+            <img className={styles.child1} alt="" src="group-1000000821.svg" />
             <div className={styles.div13}>+806 (000) 88 99</div>
           </div>
           <div className={styles.div14}>
-            <img className={styles.child2} alt="" src="/group-2.svg" />
+            <img className={styles.child2} alt="" src="group-2.svg" />
             <div className={styles.benjaminEvalent}>contact@info.com</div>
           </div>
         </div>
@@ -571,7 +571,7 @@ const DataAnalyticsStyle01 = () => {
           <img
             className={styles.languageChild}
             alt=""
-            src="/frame-1000000822.svg"
+            src="frame-1000000822.svg"
           />
         </div>
         <div className={styles.fullCopyrightContainer}>

@@ -2,11 +2,11 @@ import styles from "./About.module.css";
 const About = () => {
   return (
     <section className={styles.about}>
-      <img className={styles.bodyIcon} alt="" src="/body.svg" />
+      <img className={styles.bodyIcon} alt="" src="body.svg" />
       <div className={styles.image}>
-        <img className={styles.bodyIcon1} alt="" src="/body1.svg" />
-        <img className={styles.image01Icon} alt="" src="/image-01@2x.png" />
-        <img className={styles.image02Icon} alt="" src="/image-02@2x.png" />
+        <img className={styles.bodyIcon1} alt="" src="body1.svg" />
+        <img className={styles.image01Icon} alt="" src="image-01@2x.png" />
+        <img className={styles.image02Icon} alt="" src="image-02@2x.png" />
         <div className={styles.image03}>
           <div className={styles.text}>
             <b className={styles.dailyAverage}>
@@ -16,7 +16,7 @@ const About = () => {
             <img
               className={styles.textChild}
               alt=""
-              src="/frame-1000000806@2x.png"
+              src="frame-1000000806@2x.png"
             />
           </div>
           <div className={styles.group}>
@@ -42,16 +42,16 @@ const About = () => {
             </div>
           </div>
         </div>
-        <img className={styles.image04Icon} alt="" src="/image-041@2x.png" />
+        <img className={styles.image04Icon} alt="" src="image-041@2x.png" />
       </div>
       <form className={styles.textButton}>
         <button className={styles.button} autoFocus disabled>
           <div className={styles.analyzeNow}>About Us</div>
         </button>
         <div className={styles.chackMark}>
-          <img className={styles.icon} alt="" src="/01.svg" />
-          <img className={styles.icon1} alt="" src="/01.svg" />
-          <img className={styles.icon2} alt="" src="/03.svg" />
+          <img className={styles.icon} alt="" src="01.svg" />
+          <img className={styles.icon1} alt="" src="01.svg" />
+          <img className={styles.icon2} alt="" src="03.svg" />
           <div className={styles.variousAnalysisOptionsContainer}>
             <p className={styles.daily}>Various analysis options.</p>
             <p className={styles.daily}>
