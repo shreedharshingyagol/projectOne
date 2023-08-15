@@ -1,0 +1,137 @@
+.line {
+  position: absolute;
+  top: 195px;
+  left: 59.43px;
+  background-color: var(--color-gray-400);
+  width: 250.14px;
+  height: 1px;
+}
+.icon,
+.icon1,
+.icon2,
+.icon3 {
+  position: absolute;
+  height: 9.49%;
+  width: 7.62%;
+  top: 83.69%;
+  right: 92.38%;
+  bottom: 6.82%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon1,
+.icon2,
+.icon3 {
+  top: 58.12%;
+  bottom: 32.39%;
+}
+.icon2,
+.icon3 {
+  top: 33.12%;
+  bottom: 57.39%;
+}
+.icon3 {
+  top: 8.69%;
+  bottom: 81.82%;
+}
+.easyToTrack {
+  margin: 0;
+}
+.easyToTrackContainer {
+  position: absolute;
+  top: 0;
+  left: 30.02px;
+  line-height: 44px;
+  display: inline-block;
+  width: 176.1px;
+}
+.chackMark {
+  position: absolute;
+  top: 223px;
+  left: 59.43px;
+  width: 206.11px;
+  height: 176px;
+}
+.analyzeNow {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 12px;
+  font-weight: 600;
+  font-family: var(--font-plus-jakarta-sans);
+  color: var(--white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 111.06px;
+  flex-shrink: 0;
+}
+.icon4 {
+  position: relative;
+  width: 13.51px;
+  height: 13.5px;
+}
+.button,
+.icon5 {
+  position: absolute;
+}
+.button {
+  border: 0;
+  padding: var(--padding-0) 58.032169342041016px var(--padding-0)
+    59.03278732299805px;
+  background-color: var(--color-gray-100);
+  top: 436px;
+  left: 59.43px;
+  border-radius: var(--br-11xl);
+  width: 250.14px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.icon5 {
+  height: 10.05%;
+  width: 14.89%;
+  top: 7.33%;
+  right: 71.78%;
+  bottom: 82.61%;
+  left: 13.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.advanced,
+.customizedAnythingIn {
+  position: absolute;
+  left: 59.43px;
+  line-height: 14px;
+  display: inline-block;
+}
+.advanced {
+  top: 116px;
+  font-size: var(--font-size-3xl);
+  width: 110.06px;
+}
+.customizedAnythingIn {
+  top: 146px;
+  color: var(--color-whitesmoke-100);
+  width: 210.12px;
+}
+.pricing02 {
+  position: absolute;
+  top: 395px;
+  left: 707px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(-1.9deg, #5956e9, #908dff);
+  width: 370.21px;
+  height: 536px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+  font-family: var(--font-plus-jakarta-sans);
+}

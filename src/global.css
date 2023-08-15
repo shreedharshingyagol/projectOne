@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aclonica:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-plus-jakarta-sans: "Plus Jakarta Sans";
+  --font-aclonica: Aclonica;
+  --font-manrope: Manrope;
+  --font-dm-sans: "DM Sans";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-7xl: 26px;
+  --font-size-31xl: 50px;
+  --font-size-2xs: 11px;
+  --font-size-3xl: 22px;
+  --font-size-smi: 13px;
+  --font-size-47xl: 66px;
+  --font-size-5xl: 24px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --white: #fff;
+  --color-ghostwhite-100: #f5f5fa;
+  --color-ghostwhite-200: #f2f4fb;
+  --color-ghostwhite-300: rgba(245, 245, 250, 0.6);
+  --color-deeppink: #ff3c82;
+  --gray-3: #828282;
+  --dmv-black: #23262f;
+  --color-gray-100: #18171f;
+  --color-gray-200: rgba(255, 255, 255, 0.14);
+  --color-gray-300: rgba(255, 255, 255, 0.8);
+  --color-gray-400: rgba(255, 255, 255, 0.2);
+  --color-dimgray-100: #5f6168;
+  --color-midnightblue-100: #01103d;
+  --color-midnightblue-200: rgba(1, 16, 61, 0.1);
+  --color-mediumslateblue-100: #6865ff;
+  --color-mediumslateblue-200: #5956e9;
+  --color-mediumslateblue-300: rgba(104, 101, 255, 0.06);
+  --color-mediumslateblue-400: rgba(104, 101, 255, 0.08);
+  --color-aliceblue: #e8eaf1;
+  --color-whitesmoke-100: #f6f6f6;
+  --color-lightsteelblue: #b2b6c5;
+  --color-black: #000;
+  --color-coral: #ff7a41;
+  --color-darkgray: #9a9da7;
+  --color-silver: #c7c9d1;
+  --color-lightskyblue: #acd7ff;
+  --color-pink: #fab8c4;
+  --color-khaki: #ffdc60;
+  --color-slategray-100: #787486;
+  --color-slategray-200: #6b7280;
+
+  /* Gaps */
+  --gap-3xl: 22px;
+  --gap-4xs: 9px;
+  --gap-3xs: 10px;
+  --gap-mini: 15px;
+  --gap-5xs: 8px;
+  --gap-4xl: 23px;
+  --gap-5xl: 24px;
+  --gap-mid: 17px;
+  --gap-6xs: 7px;
+  --gap-11xl: 30px;
+  --gap-7xs: 6px;
+
+  /* Paddings */
+  --padding-39xl: 58px;
+  --padding-40xl: 59px;
+  --padding-28xl: 47px;
+  --padding-41xl: 60px;
+  --padding-mini: 15px;
+  --padding-7xl: 26px;
+  --padding-8xl: 27px;
+  --padding-17xl: 36px;
+  --padding-11xl: 30px;
+  --padding-10xl: 29px;
+  --padding-31xl: 50px;
+  --padding-25xl: 44px;
+  --padding-base: 16px;
+  --padding-13xl: 32px;
+  --padding-0: 0px;
+  --padding-6xl-2: 25.2px;
+  --padding-6xl-6: 25.6px;
+  --padding-20xl: 39px;
+  --padding-21xl: 40px;
+
+  /* border radiuses */
+  --br-xl: 20px;
+  --br-81xl: 100px;
+  --br-11xl: 30px;
+  --br-21xl: 40px;
+  --br-5xs: 8px;
+  --br-3xs: 10px;
+}
