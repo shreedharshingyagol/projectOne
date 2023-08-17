@@ -1,0 +1,44 @@
+.icon {
+  position: relative;
+  width: 50px;
+  height: 51.46px;
+}
+.industryLeading {
+  margin: 0;
+}
+.industryLeadingProceduresContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.buttonIcon {
+  position: relative;
+  width: 44px;
+  height: 44px;
+}
+.item02 {
+  position: absolute;
+  top: 140px;
+  left: 786px;
+  border-radius: var(--br-11xl);
+  background-color: var(--white);
+  box-shadow: 0 20px 30px rgba(1, 6, 20, 0.1);
+  border: 1px solid var(--color-ghostwhite-200);
+  box-sizing: border-box;
+  width: 370px;
+  height: 320px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-31xl) var(--padding-20xl) var(--padding-0)
+    var(--padding-21xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-midnightblue-100);
+  font-family: var(--font-plus-jakarta-sans);
+}

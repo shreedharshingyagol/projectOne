@@ -1,0 +1,46 @@
+.buttonIcon,
+.icon {
+  position: absolute;
+  top: 226px;
+  left: 39px;
+  width: 44px;
+  height: 44px;
+}
+.icon {
+  height: 15.58%;
+  width: 13.51%;
+  top: 15.63%;
+  right: 75.68%;
+  bottom: 68.8%;
+  left: 10.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.collaborationAcross {
+  margin: 0;
+}
+.collaborationAcrossAllContainer {
+  margin: 0;
+  position: absolute;
+  top: 132px;
+  left: 39px;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.item03 {
+  position: absolute;
+  top: 140px;
+  left: 1186px;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  box-shadow: 0 1px 3px rgba(18, 20, 32, 0.2);
+  width: 370px;
+  height: 320px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-midnightblue-100);
+  font-family: var(--font-plus-jakarta-sans);
+}

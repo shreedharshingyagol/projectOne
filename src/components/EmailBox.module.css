@@ -1,0 +1,10 @@
+.emailBox {
+  border: 0;
+  font-family: var(--font-plus-jakarta-sans);
+  font-size: var(--font-size-sm);
+  background-color: var(--white);
+  position: relative;
+  border-radius: var(--br-81xl);
+  width: 570px;
+  height: 60px;
+}

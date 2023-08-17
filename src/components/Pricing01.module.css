@@ -1,0 +1,122 @@
+.icon {
+  position: relative;
+  width: 54.08px;
+  height: 57.4px;
+}
+.customizedAnythingIn,
+.personalPlan {
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+}
+.personalPlan {
+  font-size: var(--font-size-3xl);
+  color: var(--color-midnightblue-100);
+  width: 143.08px;
+}
+.customizedAnythingIn {
+  width: 210.12px;
+}
+.line {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 250.14px;
+  height: 1px;
+}
+.icon1,
+.icon2,
+.icon3,
+.icon4 {
+  position: absolute;
+  height: 9.49%;
+  width: 7.7%;
+  top: 83.69%;
+  right: 92.3%;
+  bottom: 6.82%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon2,
+.icon3,
+.icon4 {
+  top: 58.12%;
+  bottom: 32.39%;
+}
+.icon3,
+.icon4 {
+  top: 32.95%;
+  bottom: 57.56%;
+}
+.icon4 {
+  top: 8.52%;
+  bottom: 81.99%;
+}
+.easyToTrack {
+  margin: 0;
+}
+.span {
+  color: var(--color-dimgray-100);
+}
+.bestDataPlanPackage {
+  margin: 0;
+  color: var(--color-lightsteelblue);
+}
+.easyToTrackContainer {
+  position: absolute;
+  top: 0;
+  left: 30.02px;
+  line-height: 44px;
+  font-weight: 600;
+  display: inline-block;
+  width: 174.1px;
+}
+.chackMark {
+  position: relative;
+  width: 204.11px;
+  height: 176px;
+}
+.analyzeNow,
+.button,
+.pricing01 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.analyzeNow {
+  position: relative;
+  line-height: 12px;
+  width: 105.06px;
+}
+.button,
+.pricing01 {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-mediumslateblue-400);
+  width: 250.14px;
+  height: 50px;
+  flex-direction: column;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-mediumslateblue-100);
+}
+.pricing01 {
+  position: absolute;
+  top: 395px;
+  left: 307.17px;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  box-shadow: 0 1px 3px rgba(18, 20, 32, 0.14);
+  width: 370.21px;
+  height: 536px;
+  padding: var(--padding-28xl) 60.033267974853516px var(--padding-28xl)
+    60.03336715698242px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-plus-jakarta-sans);
+}

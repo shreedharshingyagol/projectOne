@@ -1,0 +1,52 @@
+.speedometerIcon {
+  position: relative;
+  width: 46px;
+  height: 43.23px;
+}
+.artificialIntelligence {
+  position: relative;
+  line-height: 31px;
+}
+.loremIpsumIs {
+  margin: 0;
+}
+.loremIpsumIsContainer {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  color: var(--color-dimgray-100);
+}
+.text {
+  width: 257px;
+  height: 87px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.buttonIcon {
+  position: relative;
+  width: 44px;
+  height: 44px;
+}
+.item03 {
+  position: absolute;
+  top: 158px;
+  left: 800px;
+  border-radius: var(--br-11xl);
+  border: 1px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 370px;
+  height: 320px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-31xl) var(--padding-25xl) var(--padding-28xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-midnightblue-100);
+  font-family: var(--font-plus-jakarta-sans);
+}
