@@ -5,6 +5,7 @@ import {
     useLocation,
   } from "react-router-dom";
   import HeaderMask from "./components/DataAnalyticsStyle01";
+  import Group from "./components/Group";
 //   import DataAnalyticsStyle01 from "./pages/DataAnalyticsStyle01";
   import { useEffect } from "react";
   import { BrowserRouter as Router } from 'react-router-dom'
@@ -48,7 +49,7 @@ import {
     return (
       <Routes>
         <Route path="/projectOne" element={<HeaderMask />} />
-        <Route path="/about" element={<div>hello</div>} />
+        <Route path="/about" element={<Group />} />
 
       </Routes>
     );
